@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FirstViewController.h
 //  StoryBoardDemo
 //
 //  Created by WuGuMoFang on 16/5/23.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-- (IBAction)ClickBtn:(id)sender;
-
+@interface FirstViewController : UIViewController
 
 @end
-
